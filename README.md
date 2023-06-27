@@ -4,6 +4,7 @@ Repository with examples of best security practices in Node.js express projects.
 
 # Packages
 
+* Express: https://www.npmjs.com/package/express
 * Rate limits: https://www.npmjs.com/package/express-rate-limit
 * cors: https://www.npmjs.com/package/cors
 
