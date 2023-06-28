@@ -8,7 +8,7 @@ Repository with examples of best security practices in Node.js express projects.
 * Rate limits: https://www.npmjs.com/package/express-rate-limit
 * cors: https://www.npmjs.com/package/cors
 * Joi validation: https://www.npmjs.com/package/joi
-
+* Mysql2: https://www.npmjs.com/package/mysql2
 ## Team
 
 Developed by Diego Cortés
