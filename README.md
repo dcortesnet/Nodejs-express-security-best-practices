@@ -9,6 +9,7 @@ Repository with examples of best security practices in Node.js express projects.
 * cors: https://www.npmjs.com/package/cors
 * Joi validation: https://www.npmjs.com/package/joi
 * Mysql2: https://www.npmjs.com/package/mysql2
+* JWT: https://www.npmjs.com/package/jsonwebtoken
 ## Team
 
 Developed by Diego Cortés
