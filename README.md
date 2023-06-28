@@ -2,6 +2,10 @@
 
 Repository with examples of best security practices in Node.js express projects. DoS, cors, timeout and more.
 
+# Resources Spanish
+
+* [Construyendo aplicaciones seguras con Node.js y Express](https://medium.com/@diego.coder/construyendo-aplicaciones-seguras-con-node-js-y-express-61a941085ead)
+
 # Packages
 
 * Express: https://www.npmjs.com/package/express
